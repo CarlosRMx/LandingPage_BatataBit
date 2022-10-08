@@ -1,0 +1,18 @@
+.table{
+    display: flex;
+    width: 93rem;
+    margin: 0 auto;
+}
+.table__tittle{
+    text-align: center;
+}
+.data__container{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 93rem;
+    margin: 0 auto;
+}
+.plans{
+    width: 93rem;
+    margin: 0 auto;
+}
